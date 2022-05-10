@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92815433362",
+    "firebase_url": "https://calmness-d0600-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "calmness-d0600",
+    "storage_bucket": "calmness-d0600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92815433362:android:a1896e8feeb02a0848d04b",
+        "android_client_info": {
+          "package_name": "com.example.calmness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92815433362-ecair9vdiibeu26up54e7fsg9nqjf8g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-VjRE2JU-wvfkha0YibrfGsW7bgaShg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92815433362-ecair9vdiibeu26up54e7fsg9nqjf8g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
